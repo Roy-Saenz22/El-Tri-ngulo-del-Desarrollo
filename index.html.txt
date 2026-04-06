@@ -5,6 +5,7 @@ HTML
     <meta charset="UTF-8">
     <title>Practica de Clase de Github</title>
     <style>
+Estilos
       </style>
 </head>
 <body>
